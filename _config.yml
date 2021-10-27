@@ -14,7 +14,7 @@ profile: One sentence introducing yourself.
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
-  Email: "mailto:chantal.umutoni@aims.ac.rw"
+  Email: "chantal.umutoni@aims.ac.rw"
   GitHub: "https://github.com/Chantal1umutoni"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
