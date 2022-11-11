@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Personal Background"
-date:   2022-11-10 02:16:00
+date:   2022-11-06 02:00:00
 categories: jekyll update
 permalink: /archivers/hello
 ---
