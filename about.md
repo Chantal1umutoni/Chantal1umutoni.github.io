@@ -6,4 +6,4 @@ permalink: /about/
 
 Welcome to this website!
 
-It serves as demonstration of a research journey of the Author presenting the achievements and experiences.
+You will encounter the achievements and experiences of the author's research journey.
