@@ -6,4 +6,4 @@ categories: jekyll update
 permalink: /archivers/hello
 ---
 
-Umutoni Chantal  is a pationate young scientist whose desire is to impact the community by applying mathematical sciences and Statistics in solving real life problems. 
+Umutoni Chantal  is a pationate young scientist whose desire is to impact the community by applying mathematical sciences and Statistics in solving real life problems.
