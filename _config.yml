@@ -3,8 +3,8 @@ title: Umutoni Chantal
 url: "https://Chantal1umutoni.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
-description: >
-  One or more sentences introducing this blog.
+description: > This blog serves to share the career journey of the author.
+  One or more sentences introducing this blog.  
 
 # Your information
 email: chantal.umutoni@aims.ac.rw
@@ -16,7 +16,7 @@ profile: It always seems impossible until it's done. _Nelson Mandela.
 profile_links:
   Email: "mailto:chantal.umutoni@aims.ac.rw"
   GitHub: "https://github.com/Chantal1umutoni/Chantal1umutoni.github.io"
-  Linkedin: "https://www.linkedin.com/in/chantal-umutoni-a8b107161"
+  Linkedin: "https://www.linkedin.com/in/chantalumutoni"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
