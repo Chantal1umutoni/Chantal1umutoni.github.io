@@ -6,4 +6,4 @@ permalink: /about/
 
 Welcome to this website!
 
-You will encounter the achievements and experiences of the author's research journey.
+This is the story of author's research journey , the achievements and experiences.
